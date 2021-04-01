@@ -1,0 +1,13 @@
+C:\Users\anton\repos\playingWithVariables\playingWithVariables\playingWithVariables\playingWithVariables\obj\Debug\netcoreapp3.1\playingWithVariables.csprojAssemblyReference.cache
+C:\Users\anton\repos\playingWithVariables\playingWithVariables\playingWithVariables\playingWithVariables\obj\Debug\netcoreapp3.1\playingWithVariables.AssemblyInfoInputs.cache
+C:\Users\anton\repos\playingWithVariables\playingWithVariables\playingWithVariables\playingWithVariables\obj\Debug\netcoreapp3.1\playingWithVariables.AssemblyInfo.cs
+C:\Users\anton\repos\playingWithVariables\playingWithVariables\playingWithVariables\playingWithVariables\obj\Debug\netcoreapp3.1\playingWithVariables.csproj.CoreCompileInputs.cache
+C:\Users\anton\repos\playingWithVariables\playingWithVariables\playingWithVariables\playingWithVariables\bin\Debug\netcoreapp3.1\playingWithVariables.exe
+C:\Users\anton\repos\playingWithVariables\playingWithVariables\playingWithVariables\playingWithVariables\bin\Debug\netcoreapp3.1\playingWithVariables.deps.json
+C:\Users\anton\repos\playingWithVariables\playingWithVariables\playingWithVariables\playingWithVariables\bin\Debug\netcoreapp3.1\playingWithVariables.runtimeconfig.json
+C:\Users\anton\repos\playingWithVariables\playingWithVariables\playingWithVariables\playingWithVariables\bin\Debug\netcoreapp3.1\playingWithVariables.runtimeconfig.dev.json
+C:\Users\anton\repos\playingWithVariables\playingWithVariables\playingWithVariables\playingWithVariables\bin\Debug\netcoreapp3.1\playingWithVariables.dll
+C:\Users\anton\repos\playingWithVariables\playingWithVariables\playingWithVariables\playingWithVariables\bin\Debug\netcoreapp3.1\playingWithVariables.pdb
+C:\Users\anton\repos\playingWithVariables\playingWithVariables\playingWithVariables\playingWithVariables\obj\Debug\netcoreapp3.1\playingWithVariables.dll
+C:\Users\anton\repos\playingWithVariables\playingWithVariables\playingWithVariables\playingWithVariables\obj\Debug\netcoreapp3.1\playingWithVariables.pdb
+C:\Users\anton\repos\playingWithVariables\playingWithVariables\playingWithVariables\playingWithVariables\obj\Debug\netcoreapp3.1\playingWithVariables.genruntimeconfig.cache
